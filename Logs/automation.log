@@ -1,0 +1,52 @@
+20-10-2023 09:07:07 PM : root : INFO : ******* Test_001_Login ****** 
+20-10-2023 09:07:07 PM : root : INFO : ********* Verifying HomePage Title*******
+20-10-2023 09:07:13 PM : root : INFO : ******** Verifying Login test******
+20-10-2023 09:07:24 PM : root : INFO : ***** Login test is Passed
+20-10-2023 09:23:19 PM : root : INFO : ******* Test_001_Login ****** 
+20-10-2023 09:23:19 PM : root : INFO : ********* Verifying HomePage Title*******
+22-10-2023 09:58:00 AM : root : INFO : ******* Test_001_Login ****** 
+22-10-2023 09:58:00 AM : root : INFO : ********* Verifying HomePage Title*******
+22-10-2023 09:58:05 AM : selenium.webdriver.common.selenium_manager : WARNING : The chromedriver version (115.0.5790.102) detected in PATH at C:\Users\LAVANYA\PycharmProjects\AutomationProject\venv\Scripts\chromedriver.exe might not be compatible with the detected chrome version (118.0.5993.72); currently, chromedriver 118.0.5993.70 is recommended for chrome 118.*, so it is advised to delete the driver in PATH and retry
+22-10-2023 10:00:59 AM : root : INFO : ******* Test_001_Login ****** 
+22-10-2023 10:00:59 AM : root : INFO : ********* Verifying HomePage Title*******
+22-10-2023 10:01:00 AM : selenium.webdriver.common.selenium_manager : WARNING : The chromedriver version (115.0.5790.102) detected in PATH at C:\Users\LAVANYA\PycharmProjects\AutomationProject\venv\Scripts\chromedriver.exe might not be compatible with the detected chrome version (118.0.5993.72); currently, chromedriver 118.0.5993.70 is recommended for chrome 118.*, so it is advised to delete the driver in PATH and retry
+22-10-2023 10:03:10 AM : root : INFO : ******* Test_001_Login ****** 
+22-10-2023 10:03:10 AM : root : INFO : ********* Verifying HomePage Title*******
+22-10-2023 10:03:11 AM : selenium.webdriver.common.selenium_manager : WARNING : The chromedriver version (115.0.5790.102) detected in PATH at C:\Users\LAVANYA\PycharmProjects\AutomationProject\venv\Scripts\chromedriver.exe might not be compatible with the detected chrome version (118.0.5993.72); currently, chromedriver 118.0.5993.70 is recommended for chrome 118.*, so it is advised to delete the driver in PATH and retry
+22-10-2023 10:05:02 AM : root : INFO : ******** Verifying Login test******
+22-10-2023 10:05:03 AM : selenium.webdriver.common.selenium_manager : WARNING : The chromedriver version (115.0.5790.102) detected in PATH at C:\Users\LAVANYA\PycharmProjects\AutomationProject\venv\Scripts\chromedriver.exe might not be compatible with the detected chrome version (118.0.5993.72); currently, chromedriver 118.0.5993.70 is recommended for chrome 118.*, so it is advised to delete the driver in PATH and retry
+22-10-2023 10:06:01 AM : root : INFO : ******* Test_001_Login ****** 
+22-10-2023 10:06:01 AM : root : INFO : ********* Verifying HomePage Title*******
+22-10-2023 10:06:03 AM : selenium.webdriver.common.selenium_manager : WARNING : The chromedriver version (115.0.5790.102) detected in PATH at C:\Users\LAVANYA\PycharmProjects\AutomationProject\venv\Scripts\chromedriver.exe might not be compatible with the detected chrome version (118.0.5993.72); currently, chromedriver 118.0.5993.70 is recommended for chrome 118.*, so it is advised to delete the driver in PATH and retry
+22-10-2023 10:09:12 AM : root : INFO : ******* Test_001_Login ****** 
+22-10-2023 10:09:12 AM : root : INFO : ********* Verifying HomePage Title*******
+22-10-2023 10:09:13 AM : selenium.webdriver.common.selenium_manager : WARNING : The chromedriver version (115.0.5790.102) detected in PATH at C:\Users\LAVANYA\PycharmProjects\AutomationProject\venv\Scripts\chromedriver.exe might not be compatible with the detected chrome version (118.0.5993.72); currently, chromedriver 118.0.5993.70 is recommended for chrome 118.*, so it is advised to delete the driver in PATH and retry
+22-10-2023 10:13:08 AM : root : INFO : ******* Test_001_Login ****** 
+22-10-2023 10:13:08 AM : root : INFO : ********* Verifying HomePage Title*******
+22-10-2023 10:13:10 AM : selenium.webdriver.common.selenium_manager : WARNING : The chromedriver version (114.0.5735.90) detected in PATH at C:\Users\LAVANYA\PycharmProjects\AutomationProject\venv\Scripts\chromedriver.exe might not be compatible with the detected chrome version (118.0.5993.72); currently, chromedriver 118.0.5993.70 is recommended for chrome 118.*, so it is advised to delete the driver in PATH and retry
+22-10-2023 10:16:43 AM : root : INFO : ******* Test_001_Login ****** 
+22-10-2023 10:16:43 AM : root : INFO : ********* Verifying HomePage Title*******
+22-10-2023 10:17:28 AM : root : INFO : ******* Test_001_Login ****** 
+22-10-2023 10:17:28 AM : root : INFO : ********* Verifying HomePage Title*******
+22-10-2023 10:17:34 AM : root : INFO : ******** Verifying Login test******
+22-10-2023 10:17:44 AM : root : INFO : ***** Login test is Passed
+22-10-2023 01:21:12 PM : root : INFO : ******* Test_001_Login ****** 
+22-10-2023 01:21:12 PM : root : INFO : ********* Verifying HomePage Title*******
+22-10-2023 01:21:20 PM : root : INFO : ******** Verifying Login test******
+22-10-2023 01:21:30 PM : root : INFO : ***** Login test is Passed
+22-10-2023 01:29:45 PM : root : INFO : ******* Test_001_Login ****** 
+22-10-2023 01:29:45 PM : root : INFO : ********* Verifying HomePage Title*******
+22-10-2023 01:29:51 PM : root : INFO : ******** Verifying Login test******
+22-10-2023 01:29:59 PM : root : INFO : ***** Login test is Passed
+22-10-2023 01:33:28 PM : root : INFO : ******* Test_001_Login ****** 
+22-10-2023 01:33:28 PM : root : INFO : ********* Verifying HomePage Title*******
+22-10-2023 01:33:33 PM : root : INFO : ******** Verifying Login test******
+22-10-2023 01:33:44 PM : root : INFO : ***** Login test is Passed
+22-10-2023 01:36:03 PM : root : INFO : ******* Test_001_Login ****** 
+22-10-2023 01:36:03 PM : root : INFO : ********* Verifying HomePage Title*******
+22-10-2023 01:36:09 PM : root : INFO : ******** Verifying Login test******
+22-10-2023 01:36:19 PM : root : INFO : ***** Login test is Passed
+23-10-2023 11:58:34 AM : root : INFO : ******* Test_001_Login ****** 
+23-10-2023 11:58:34 AM : root : INFO : ********* Verifying HomePage Title*******
+23-10-2023 11:58:43 AM : root : INFO : ******** Verifying Login test******
+23-10-2023 11:59:58 AM : root : INFO : ***** Login test is Passed
